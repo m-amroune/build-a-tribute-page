@@ -2,12 +2,12 @@
 
 - Objective : Build an app that is functionally similar to https://tribute-page.freecodecamp.rocks. Do not copy this demo project.
 
-### Languages
+## Languages
 
 - [![Made-with-HTML](https://img.shields.io/badge/Made%20with-HTML-red)](https://developer.mozilla.org/fr/docs/Web/HTML)
 - [![Made-with-CSS](https://img.shields.io/badge/Made%20with-CSS-blue)](https://developer.mozilla.org/fr/docs/Web/CSS)
 
-### User Stories:
+## User Stories:
 
 1) Your tribute page should have a main element with a corresponding id of main, which contains all other elements
 2) You should see an element with an id of title, which contains a string (i.e. text), that describes the subject of the tribute page (e.g. "Dr. Norman Borlaug")
